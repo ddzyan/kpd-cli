@@ -1,6 +1,6 @@
 {
-  "name": "kpd-cli",
-  "version": "1.1.3",
+  "name": "kpdc-cli",
+  "version": "1.0.0",
   "description": "koa-enterprise 脚手架，快速创建基于 koa-enterprise 的项目框架",
   "main": "./index.js",
   "scripts": {
