@@ -1,13 +1,13 @@
 {
   "name": "kpdc-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "koa-enterprise 脚手架，快速创建基于 koa-enterprise 的项目框架",
   "main": "./index.js",
   "scripts": {
     "start": "npm publish ."
   },
   "bin": {
-    "chain-cli": "./index.js"
+    "kpdc-cli": "./index.js"
   },
   "author": "ddzyan@163.com",
   "license": "ISC",
